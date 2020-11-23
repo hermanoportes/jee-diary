@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.nav-bar {
+    background-color: #1f1f1f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-link {
+    color: white;
+    text-decoration: none;
+    margin: 20px 10px;
+}
